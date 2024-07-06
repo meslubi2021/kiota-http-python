@@ -2,7 +2,7 @@
 
 astroid==3.0.1
 
-certifi==2023.7.22
+certifi==2024.7.4
 
 charset-normalizer==3.3.2
 
@@ -20,7 +20,7 @@ flit==3.9.0
 
 flit-core==3.9.0
 
-idna==3.4
+idna==3.7
 
 iniconfig==2.0.0
 
@@ -52,7 +52,7 @@ pytest-cov==4.1.0
 
 pytest-mock==3.12.0
 
-requests==2.31.0
+requests==2.32.2
 
 toml==0.10.2
 
@@ -66,7 +66,7 @@ types-python-dateutil==2.8.19.14
 
 typing-extensions==4.8.0
 
-urllib3==2.0.7
+urllib3==2.2.2
 
 wrapt==1.15.0
 
